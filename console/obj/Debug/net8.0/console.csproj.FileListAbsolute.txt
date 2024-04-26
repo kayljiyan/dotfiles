@@ -1,0 +1,17 @@
+/home/main/it15-csharp/console/obj/Debug/net8.0/console.csproj.AssemblyReference.cache
+/home/main/it15-csharp/console/obj/Debug/net8.0/console.GeneratedMSBuildEditorConfig.editorconfig
+/home/main/it15-csharp/console/obj/Debug/net8.0/console.AssemblyInfoInputs.cache
+/home/main/it15-csharp/console/obj/Debug/net8.0/console.AssemblyInfo.cs
+/home/main/it15-csharp/console/obj/Debug/net8.0/console.csproj.CoreCompileInputs.cache
+/home/main/it15-csharp/console/bin/Debug/net8.0/console
+/home/main/it15-csharp/console/bin/Debug/net8.0/console.deps.json
+/home/main/it15-csharp/console/bin/Debug/net8.0/console.runtimeconfig.json
+/home/main/it15-csharp/console/bin/Debug/net8.0/console.dll
+/home/main/it15-csharp/console/bin/Debug/net8.0/console.pdb
+/home/main/it15-csharp/console/bin/Debug/net8.0/Python.Runtime.dll
+/home/main/it15-csharp/console/obj/Debug/net8.0/console.csproj.CopyComplete
+/home/main/it15-csharp/console/obj/Debug/net8.0/console.dll
+/home/main/it15-csharp/console/obj/Debug/net8.0/refint/console.dll
+/home/main/it15-csharp/console/obj/Debug/net8.0/console.pdb
+/home/main/it15-csharp/console/obj/Debug/net8.0/console.genruntimeconfig.cache
+/home/main/it15-csharp/console/obj/Debug/net8.0/ref/console.dll
