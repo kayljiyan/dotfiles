@@ -1,0 +1,5 @@
+#!/bin/bash
+
+filepath=$(fdfind --type d --hidden --exclude .git | fzf)
+
+cd ${filepath}
